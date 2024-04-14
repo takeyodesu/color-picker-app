@@ -2,6 +2,7 @@
   "name": "takeyo-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://takeyodesu.github.io/color-picker-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@vitejs/plugin-react": "^4.2.1",
     "sass": "^1.71.1",
     "vite": "^5.1.4"
